@@ -4,3 +4,5 @@ console.log(json);
 
 let obj = JSON.parse(json);
 console.log(obj);
+
+//output: {"name":"Tushar","age":21}
